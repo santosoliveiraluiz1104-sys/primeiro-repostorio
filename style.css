@@ -1,0 +1,28 @@
+img {
+    width: 300px;
+}
+
+header {
+    background-color: black;   /* Cor de fundo */
+    color: cyan;               /* cor da letra */
+    text-align: center;        /* alinhamento do texto */
+    max-width: 800px;          /* largura máxima */
+    margin: 0 auto;            /* espaço entre o bloco e o conteúdo */
+    padding: 16px;             /* espaço entre o conteúdo */
+}
+
+main {
+    background-color: #FFFFFF;
+    color: #183C63;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+.artigo-autor {
+    font-weight: bold;         /* espessura da fonte - negrito */
+}
+
+article {
+    display: flex;             /* contêiner flexível */
+}
